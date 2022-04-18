@@ -221,6 +221,9 @@ grid-template-areas:
         "contacto contacto";
         align-items: center;
 
+       
+
+
     }
 
     .nosotros{
@@ -340,3 +343,7 @@ grid-template-areas:
 }
 
 
+.blog_img{
+
+    transform: scale(2,1);
+}
