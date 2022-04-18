@@ -85,7 +85,8 @@ grid-template-areas:
 }
 
 .noticias{
-    background-color: coral;
+    background-color: #ff4e00;
+    background-image: linear-gradient(315deg, #ff4e00 0%, #ec9f05 74%);
     grid-area: noticias;   
     
 }
@@ -110,7 +111,9 @@ grid-template-areas:
     grid-area: comunidad;
 }
 .pie{
-    background-color:blue;
+    background-color: #2a2a72;
+    background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
+   
     grid-area: pie;
 }
 
@@ -236,7 +239,8 @@ grid-template-areas:
     }
     .contacto{
 
-        background-color: blue;
+        background-color: #2a2a72;
+        background-image: linear-gradient(315deg, #2a2a72 0%, #009ffd 74%);
         grid-area: video; 
         
     }
